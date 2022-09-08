@@ -1,5 +1,5 @@
 {
-    "name": "Family-MD",
+    "name": "Siesta Botz",
     "version": "2.4.0",
     "description": "Simple Bot WhatsApp with Baileys Multi Device",
     "depecrated": false,
@@ -29,13 +29,13 @@
         "stikerin",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/fokusdotid/family-md",
+    "homepage": "https://github.com/XyzenzKannaV1",
     "author": {
-        "name": "Fokus ID"
+        "name": "Kanna Chan"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/fokusdotid/family-md.git"
+        "url": "git+https://github.com/XyzenzKannaV1"
     },
     "bugs": {
         "url": "https://github.com/fokusdotid/family-md/issues"
