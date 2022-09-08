@@ -19,7 +19,7 @@ const defaultMenu = {
 │
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
-├ Github:%https;//github.com/XyzenzKannaV1
+├ Github:https://github.com/XyzenzKannaV1
 ├ %github
 └────
 %readmore`.trim(),
