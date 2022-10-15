@@ -39,16 +39,16 @@ global.APIKeys = { // APIKey Here
 }
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
-global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
+global.eror = '_*𝗺𝗮𝗮𝗳 𝘀𝗲𝗿𝘃𝗲𝗿 𝘁𝗶𝗱𝗮𝗸 𝘀𝘁𝗮𝗯𝗶𝗹..*_'
 global.Intervalmsg = 1800 //detik
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kannabotz"
+global.urlnya = "https://www.instagram.com/dians_real21"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6283866366437'
+global.phn = '62895328298685'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
